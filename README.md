@@ -1,5 +1,7 @@
 # category-selector-component
 
+See task.docx
+
 ## Project setup
 ```
 npm install
